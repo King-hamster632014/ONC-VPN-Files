@@ -15,7 +15,7 @@
   "NetworkConfigurations": [
     {
       "GUID": "{c3333333-d444-e555-f666-g77777777777}",
-      "Name": "skeesh! - made by yeebus",
+      "Name": "JPN-VPN",
       "Type": "VPN",
       "VPN": {
         "Type": "OpenVPN",
