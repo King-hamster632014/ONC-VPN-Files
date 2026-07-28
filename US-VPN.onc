@@ -3,7 +3,7 @@
   "NetworkConfigurations": [
     {
       "GUID": "{a1b2c3d4-e5f6-7890-abcd-1234567890ab}",
-      "Name": "Vpn to smwh",
+      "Name": "US-VPN",
       "Type": "VPN",
       "VPN": {
         "Host": "219.100.37.1",
