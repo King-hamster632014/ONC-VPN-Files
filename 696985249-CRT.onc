@@ -1,0 +1,24 @@
+{
+  "Type": "UnencryptedConfiguration",
+  "NetworkConfigurations": [
+    {
+      "GUID": "{cbd98651-770c-443b-be15-7798725838cc}",
+      "Name": "696985249-CRT",
+      "Type": "VPN",
+      "VPN": {
+        "Host": "150.40.105.18",
+        "Type": "L2TP-IPsec",
+        "IPsec": {
+          "AuthenticationType": "PSK",
+          "PSK": "vpn",
+          "IKEVersion": 1
+        },
+        "L2TP": {
+          "SaveCredentials": true,
+          "Username": "vpn",
+          "Password": "vpn"
+        }
+      }
+    }
+  ]
+}
