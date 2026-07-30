@@ -1,8 +1,0 @@
-Service Name: public-vpn-252.opengw.net
-Provider Type: L2TP/IPsec
-Server Hostname:219.100.37.175
-Authentication Type: Pre-Shared Key
-Username: vpn
-Password: vpn
-Leave Group Name Blank
-Pre-Shared Key:vvpn
