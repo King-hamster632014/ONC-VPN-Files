@@ -1,0 +1,24 @@
+{
+  "Type": "UnencryptedConfiguration",
+  "NetworkConfigurations": [
+    {
+      "GUID": "{cbd98651-770c-443b-be15-7798725838cc}",
+      "Name": "980909101-JPN",
+      "Type": "VPN",
+      "VPN": {
+        "Host": "180.146.75.183",
+        "Type": "L2TP-IPsec",
+        "IPsec": {
+          "AuthenticationType": "PSK",
+          "PSK": "vpn",
+          "IKEVersion": 1
+        },
+        "L2TP": {
+          "SaveCredentials": true,
+          "Username": "vpn",
+          "Password": "vpn"
+        }
+      }
+    }
+  ]
+}
